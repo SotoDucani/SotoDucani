@@ -1,6 +1,6 @@
 ### Hello There!
 
-I'm Josh Herrmann, a New England transplant now living in Western New York. I've worked as a Systems Administrator doing level 1 and 2 support, as a Systems Engineer doing Microsoft ecosystem endpoint and 365 management, and now as a Site Reliability Engineer supporting Windows, Linux, and Kubernetes based applications.
+I'm Josh Herrmann, a New Englander now living in Western New York. I've worked as a Systems Administrator doing level 1 and 2 support, as a Systems Engineer doing Microsoft ecosystem endpoint and 365 management, and now as a Site Reliability Engineer supporting Windows, Linux, and Kubernetes based applications.
 
 | Tech       |                 | Hobbies         |
 | :--------- | :-------------- | :-------------- |
