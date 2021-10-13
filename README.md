@@ -11,3 +11,4 @@ I'm Josh Herrmann, a New Englander now living in Western New York. I've worked a
 | Docker     | MEMCM/MECM/SCCM |                 |
 
 <a href="https://api.badgr.io/public/assertions/Nxasjk6fSUqRY7ooJWur0g?identity__email=jdvh1292%40gmail.com"><img width="100px" height="100px" src="https://api.badgr.io/public/assertions/Nxasjk6fSUqRY7ooJWur0g/image"></a>
+<a href="https://api.badgr.io/public/assertions/QkG3OReFR3W5Iqiy0bdftg?identity__email=jdvh1292%40gmail.com"><img width="100px" height="100px" src="https://api.badgr.io/public/assertions/QkG3OReFR3W5Iqiy0bdftg/image"></a>
